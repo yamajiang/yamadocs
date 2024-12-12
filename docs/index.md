@@ -1,20 +1,20 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Introduction
+[Site is Under Construction]
 
 
-I like to cook :cooking:
+=== "About Me"
+
+    Hi, I'm Yama! 
+    I am student who is currently pursuing a Bachelor’s of Science Degree in Computer Science with a minor in Intelligent Robotic Systems at the University of Central Florida. I'm committed to expanding my knowledge in the ever-evolving tech industry while seeking opportunities to grow professionally in a dynamic and challenging environment.
+
+=== "Skills"
+
+
+=== "Resume"
+    :material-file-document-multiple-outline: <a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">View My Resume</a>
+
+
+=== "Contact"
+    - :material-email: [Email](mailto:yamajiang.cs@gmail.com)
+    - :simple-linkedin: <a href="https://www.linkedin.com/in/yamajiang/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    - :simple-github: <a href="https://github.com/YamaJiang" target="_blank" rel="noopener noreferrer">GitHub</a>

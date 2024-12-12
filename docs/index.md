@@ -17,4 +17,4 @@
 === "Contact"
     - :material-email: [Email](mailto:yamajiang.cs@gmail.com)
     - :simple-linkedin: <a href="https://www.linkedin.com/in/yamajiang/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    - :simple-github: <a href="https://github.com/YamaJiang" target="_blank" rel="noopener noreferrer">GitHub</a>
+    - :simple-github: <a href="https://github.com/yamajiang" target="_blank" rel="noopener noreferrer">GitHub</a>

@@ -9,6 +9,13 @@ theme:
     logo: fontawesome/solid/computer
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs 
+    - navigation.tabs.sticky
+    - navigation.sections
+    
    
   palette: 
     #Dark Mode
@@ -27,6 +34,15 @@ theme:
       primary: deep purple
       accent: indigo
 
+
+nav:
+- Introduction: index.md
+- Documentation: 
+  - Info: notes/docs.md
+  - Note 1: notes/note1.md
+- Projects: 
+  - Info: projects/projects.md
+  - Project 1: projects/project1.md
 
 
 markdown_extensions:

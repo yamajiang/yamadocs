@@ -1,0 +1,3 @@
+#Projects
+
+This section is dedicated to showcasing the projects I have worked on, providing detailed explanations of the processes, challenges, and solutions involved. For each project, I will include descriptions, code snippets, progress, and the overall goals I aimed to achieve. Additionally, I will reference relevant videos, tutorials, and resources that I followed or found useful during the development of each project which offers insight into my learning process.

@@ -1,11 +1,11 @@
 # Introduction
-[Site is Under Construction]
-
 
 === "About Me"
+    <img src="../assets/photo.jpg" alt="Yama Photo" style="width: 30%; float: left; margin-right: 15px" />
+    <br> 
+    Hi, I'm Yama!  
+    I am a student who is currently pursuing a Bachelor’s of Science Degree in Computer Science with a minor in Intelligent Robotic Systems at the University of Central Florida. I have an interest in the applications of machine learning and AI in robotics. I'm committed to expanding my knowledge in the ever-evolving tech industry while seeking opportunities to grow professionally in a dynamic and challenging environment.
 
-    Hi, I'm Yama! 
-    I am student who is currently pursuing a Bachelor’s of Science Degree in Computer Science with a minor in Intelligent Robotic Systems at the University of Central Florida. I have an interest in the applications of machine learning and AI in robotics. I'm committed to expanding my knowledge in the ever-evolving tech industry while seeking opportunities to grow professionally in a dynamic and challenging environment.
     
 
 === "Skills"
@@ -26,7 +26,6 @@
     - :material-android-studio: Android Studio
     - :simple-arduino: Arduino
     
-
 
 === "Resume"
     :material-file-document-multiple-outline: <a href="assets/resume.pdf" target="_blank" rel="noopener noreferrer">View My Resume</a>

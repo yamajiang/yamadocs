@@ -1,5 +1,5 @@
 site_name: Yama Jiang
-site_url: https://sitename.example
+site_url: https://yamajiang.dev
 theme:
   name: material 
   font:
@@ -9,6 +9,7 @@ theme:
     logo: fontawesome/solid/computer
   features:
     - navigation.footer
+   
   palette: 
     #Dark Mode
     - scheme: slate
@@ -25,6 +26,8 @@ theme:
         name: DaLightrk mode
       primary: deep purple
       accent: indigo
+
+
 
 markdown_extensions:
   - attr_list

@@ -67,9 +67,9 @@ markdown_extensions:
   - pymdownx.details
 extra:
   social:
-    - icon: simple/github
+    - icon: fontawesome/brands/github
       link: https://github.com/yamajiang
-    - icon: simple/linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/yamajiang/
 
 copyright: Copyright &copy; 2024 Yama Jiang

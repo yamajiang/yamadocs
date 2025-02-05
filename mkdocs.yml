@@ -42,7 +42,7 @@ nav:
   - Note 1: notes/note1.md
 - Projects: 
   - Info: projects/projects.md
-  - Project 1: projects/project1.md
+  - Pokébook: projects/Pokébook.md
 
 
 markdown_extensions:

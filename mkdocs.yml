@@ -39,7 +39,7 @@ nav:
 - Introduction: index.md
 - Documentation: 
   - Info: notes/docs.md
-  - Note 1: notes/note1.md
+  - Python: notes/Python.md
 - Projects: 
   - Info: projects/projects.md
   - Pokébook: projects/Pokébook.md

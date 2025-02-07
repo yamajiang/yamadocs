@@ -23,7 +23,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: deep purple
+      primary: blue grey
       accent: indigo
 
     #Light Mode
@@ -31,7 +31,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: DaLightrk mode
-      primary: deep purple
+      primary: blue grey
       accent: indigo
 
 

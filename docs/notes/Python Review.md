@@ -60,3 +60,8 @@ this_is_snake_case = "hey"
 ```
 x,y,x= "apple", "orange", "cherry"
 ```
+- If you have a list, you can unpack it to extract the values into variables
+```
+fruits= ["apple", "banana", "cherry"]  
+x, y, z = fruits
+```

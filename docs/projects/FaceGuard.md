@@ -6,9 +6,7 @@ Working on this project introduced me to the fundamentals of handling video stre
 
 ![Face Blur](../assets/blur.png){ width="400" }
 
-<!--
 <video width="400" controls>
   <source src="/assets/blurVid.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
--->

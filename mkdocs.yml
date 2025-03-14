@@ -34,13 +34,13 @@ theme:
       primary: blue grey
       accent: indigo
 
-
 nav:
 - Introduction: index.md
 - Documentation: 
   - Info: notes/docs.md
   - Python Review: notes/Python Review.md
   - Java Review: notes/Java Review.md
+  - Sorting Algorithms: notes/SortingAlgo.md
   - Intro to Reinforcement Learning: notes/intotorl.md
 - Projects: 
   - Info: projects/Info.md

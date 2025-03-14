@@ -13,12 +13,12 @@
 - **Value Function**: Estimates the long-term reward for being in a particular state or taking a particular action.  
 - **Q-Value (Action-Value)**: Estimates the total expected reward for taking a given action from a given state.  
 
-## Difference Between Supervised, Unsupervised, and Reinforcement Learning  
+## Supervise & Unsupervised
 
 - **Supervised Learning**: Uses labeled datasets where each input has a corresponding output to train algorithms to predict outcomes and recognize patterns.  
 - **Unsupervised Learning**: Applies machine learning on unlabeled datasets that have no predefined labels or outputs, aiming to uncover hidden patterns in the data.  
 
-### Key Differences  
+## Key Differences  
 
 1. **Static vs. Dynamic**  
    - Supervised and unsupervised learning focus on finding patterns in static training data.  
@@ -46,7 +46,7 @@
 - When the Markov Property is applied to a random process, it becomes a **Markov Chain** — a model that describes a sequence of possible events where the probability of each event depends only on the state attained in the previous event.  
 
 
-## Important Notes on Reinforcement Learning  
+## Important Notes
 
 - **Exploration vs. Exploitation**: The agent must balance between exploring new actions to find better rewards and exploiting known actions to maximize immediate rewards.  
 - **Delayed Rewards**: Actions can have long-term consequences, making it essential to consider future rewards, not just immediate feedback.  

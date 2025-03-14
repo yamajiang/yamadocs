@@ -5,16 +5,16 @@
 - **JDK (Java Development Kit)**: Contains tools for developing Java applications
 - **JRE (Java Runtime Environment)**: Provides libraries and JVM for running Java applications
 
-### Data Types
+## Data Types
 - **Primitive Types**: `int`, `double`, `char`, `boolean`, `float`, `long`, `short`, `byte`
 - **Reference Types**: Objects, Arrays, Strings, etc
 
-### Variables
+## Variables
 - **Local**: Declared inside methods or blocks
 - **Instance**: Belong to instances of a class
 - **Static**: Belong to the class itself
 
-### Control Flow
+## Control Flow
 - **Conditionals**: `if`, `else if`, `else`, `switch`
 - **Loops**: `for`, `while`, `do-while`
 - **Break/Continue**: Control loop execution
@@ -27,7 +27,7 @@
 - **Encapsulation**: Use private fields with public getters/setters
 - **Abstraction**: Abstract classes and interface
 
-### Access Modifiers
+## Access Modifiers
 - `public`: Accessible everywhere
 - `protected`: Accessible in the same package or subclasses
 - `default`: Accessible within the same package

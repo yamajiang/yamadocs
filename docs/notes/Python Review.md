@@ -39,7 +39,7 @@ x = 'yama'
 # ^ these two are the same
 ```
 
-### Names
+## Names
 - Variable names must start with a letter or underscore; cannot start with numbers.
 - Variable names are case-sensitive (`hello`, `HELLO`, `Hello` are all different).
 - Cannot be a Python keyword.
@@ -56,7 +56,7 @@ ThisIsPascalCase = "hello"
 this_is_snake_case = "hey"
 ```
 
-### Multiple Values
+## Multiple Values
 - You can assign multiple variables in one line:
 ```python
 x, y, z = "apple", "orange", "cherry"

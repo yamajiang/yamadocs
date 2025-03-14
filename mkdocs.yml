@@ -41,8 +41,17 @@ nav:
   - Info: notes/docs.md
   - Python Review: notes/Python Review.md
 - Projects: 
-  - Info: projects/projects.md
+  - Info: projects/Info.md
+  - NavX: projects/NavX.md
   - Pokébook: projects/Pokébook.md
+  - MATE ROV: projects/MATEROV.md
+  - Okayama: projects/Okayama.md
+  - FaceGuard: projects/FaceGuard.md
+  - Flappy Bird: projects/FlappyBird.md
+  - Minesweeper: projects/Minesweeper.md
+
+  
+
 
 
 markdown_extensions:
